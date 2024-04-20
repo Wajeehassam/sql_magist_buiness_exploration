@@ -1,5 +1,5 @@
-# sql_magist_buiness_exploration
-## summary
+# sql_EniacMagist_Buiness_Exploration
+## Summary
 **Eniac** is a company that primarily deals with Apple-compatible accessories and is limited to Europe. They want to expand their sales in the Brazilian market. In Brazil, **Magist** offers a centralized order management system to connect small and medium-sized stores with the biggest Brazilian marketplaces.
 ## Languages and Libraries Used
 We have used SQL to analyze our data and used Tableau for visualization.
@@ -8,3 +8,4 @@ I have primarily worked with SQL to explore the Magist data concerning Eniac's c
 ## Challenges Overcame
 As this was the first project I was doing so I felt a bit lost. I have no background knowledge as well so I struggled with everything at first and tried to explore, made mistakes but I also learned many things.
 ## Additional Reflections
+This project helped me to develop new skills and I will try to polish them more with hard work.
