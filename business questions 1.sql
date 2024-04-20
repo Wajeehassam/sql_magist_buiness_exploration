@@ -1,8 +1,8 @@
--- Total product categories does Magist have? ans; 74
+-- Total product categories does Magist have? ans; 
 select count(product_category_name) from product_category_name_translation;
 
 
--- What categories of tech products does Magist have? ans; 12
+-- What categories of tech products does Magist have? 
 select *,
 case 
 when product_category_name_english IN ('computers_accessories', 'electronics', 'consoles_games', 'computers', 'pc_gamer', 'watches_gift') then "Tech"
