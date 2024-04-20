@@ -1,0 +1,7 @@
+﻿heavy or light,Delivery_status,% of Total Product Weight In Kgs
+Heavy,on-time,9.884938272%
+Heavy,delayed,9.283975987%
+Light,on-time,55.094081281%
+Light,delayed,58.424581207%
+Moderate,on-time,35.020980447%
+Moderate,delayed,32.291442806%

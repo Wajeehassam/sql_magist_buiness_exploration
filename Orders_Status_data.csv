@@ -1,0 +1,5 @@
+﻿Delivery_status,Tech_nonTech_calssification,Count of orders.csv
+on-time,Tech,1088
+delayed,Tech,9396
+on-time,Non-Tech,9706
+delayed,Non-Tech,79324
