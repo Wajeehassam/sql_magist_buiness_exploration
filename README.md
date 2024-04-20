@@ -9,3 +9,4 @@ I have primarily worked with SQL to explore the Magist data concerning Eniac's c
 As this was the first project I was doing so I felt a bit lost. I have no background knowledge as well so I struggled with everything at first and tried to explore, made mistakes but I also learned many things.
 ## Additional Reflections
 This project helped me to develop new skills and I will try to polish them more with hard work.
+link to my presentation: https://www.canva.com/design/DAGCg3qeMzs/l83E4VnezVAdQkB6xSDR0w/edit
